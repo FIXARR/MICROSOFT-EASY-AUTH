@@ -28,7 +28,7 @@ def home():
     auth_url += "?" + "&".join([f"{k}={v}" for k, v in params.items()])
 
     # Redirect the user to the authorization URL
-    return f"<h2>🧲 Please go to this URL and authenticate:</h2> \n <h4> <a href='{auth_url}'>{auth_url}</a> </h4>"
+    return f"<h2>🧲 Please go to this URL and Authenticate :</h2> \n <h4> <a href='{auth_url}'>{auth_url}</a> </h4>"
 
 
 
