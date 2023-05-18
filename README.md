@@ -9,6 +9,9 @@
 pip or pip3 install -r requirements.txt 
 
 ```
+
+### ⏳ After
+
 ```
 python or python3 app.py
 ```
