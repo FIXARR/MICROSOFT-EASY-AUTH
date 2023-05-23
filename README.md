@@ -2,7 +2,9 @@
 
 ## 📢 You Can Get Easily Microsoft Auth Tokens From This Script
 
-### First Create Azure APP Using Azure Active Directory
+
+### First Create Azure Active Directory APPLICATION 
+
 
 ### ⏳ Just Run 
 
