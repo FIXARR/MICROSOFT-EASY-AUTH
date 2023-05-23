@@ -2,6 +2,7 @@
 
 ## 📢 You Can Get Easily Microsoft Auth Tokens From This Script
 
+### First Create Azure APP Using Azure Active Directory
 
 ### ⏳ Just Run 
 
@@ -14,6 +15,7 @@ pip or pip3 install -r requirements.txt
 
 ```
 python or python3 app.py
+
 ```
 
 ## 🏮 NOTE
